@@ -1,14 +1,28 @@
-![Alt text](assets/img/thumbnail.png)
+![Catnip](assets/img/thumbnail.png)
 
-# **Help Your Pussy Cat!!!**
+# Catnip
 
-Pussy Cat is just a simple game built with vanilla JS. I created this project solely for practicing web development, as part of preparation for a competition that includes a module on creating games using vanilla JS.
+Catnip is a small browser game built with vanilla JavaScript. Guide the cat to collect coins while a snake chases it. Each coin adds a point; touching the snake ends the game.
+
+I built it in April 2024 as practice for the **LKS (Lomba Kompetensi Siswa) Web Technology** competition, which includes a module on building a game with vanilla JavaScript.
+
+> This is a practice project. It is not maintained.
+
+## How to play
+
+1. Open `index.html` in a browser.
+2. Press **Start**.
+3. Move the cat with the arrow keys or **W A S D**.
+4. Collect coins and stay away from the snake.
+
+The cat wraps around the screen edges, so you can escape through one side and come back from the other.
 
 ## Stack
 
-- JavaScript
 - HTML5
+- CSS3
+- Vanilla JavaScript (no libraries, no build step)
 
-## Developer
+## License
 
-- [Andika Dwi Saputra](https://andikss.github.io)..
+[MIT](LICENSE) © 2024 Andika Dwi Saputra
